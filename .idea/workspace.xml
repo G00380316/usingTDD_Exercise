@@ -81,7 +81,7 @@
       <recent name="ie.atu" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testMultiply">
+  <component name="RunManager" selected="JUnit.CalculatorTest.testSubtract">
     <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Junit" />
       <extension name="coverage">
@@ -114,8 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorTest.testSubtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.atu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ie.atu" />
+      <option name="MAIN_CLASS_NAME" value="ie.atu.CalculatorTest" />
+      <option name="METHOD_NAME" value="testSubtract" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.testSubtract" />
         <item itemvalue="JUnit.CalculatorTest.testMultiply" />
         <item itemvalue="JUnit.CalculatorTest.testAdd" />
       </list>

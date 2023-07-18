@@ -17,4 +17,11 @@ public class Calculator {
 
             return total;
         }
+
+        public int subtract(int firstNumber, int secondNumber){
+            total = firstNumber - secondNumber;
+            System.out.println("The Subtraction is "+ total);
+
+            return total;
+        }
 }
