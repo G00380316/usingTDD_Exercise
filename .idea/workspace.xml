@@ -81,7 +81,7 @@
       <recent name="ie.atu" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testSubtract">
+  <component name="RunManager" selected="JUnit.CalculatorTest.testDivide">
     <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Junit" />
       <extension name="coverage">
@@ -93,6 +93,22 @@
       <option name="PACKAGE_NAME" value="ie.atu" />
       <option name="MAIN_CLASS_NAME" value="ie.atu.CalculatorTest" />
       <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.atu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ie.atu" />
+      <option name="MAIN_CLASS_NAME" value="ie.atu.CalculatorTest" />
+      <option name="METHOD_NAME" value="testDivide" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,6 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.testDivide" />
         <item itemvalue="JUnit.CalculatorTest.testSubtract" />
         <item itemvalue="JUnit.CalculatorTest.testMultiply" />
         <item itemvalue="JUnit.CalculatorTest.testAdd" />

@@ -24,4 +24,11 @@ public class Calculator {
 
             return total;
         }
+
+        public int divide(int firstNumber, int secondNumber){
+            total = firstNumber / secondNumber;
+            System.out.println("The Division is "+ total);
+
+            return total;
+        }
 }
