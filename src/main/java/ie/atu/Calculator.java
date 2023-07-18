@@ -1,7 +1,5 @@
 package ie.atu;
 
-
-
 public class Calculator {
     private int firstNumber,secondNumber,total;
         public Calculator(){firstNumber = 0; secondNumber = 0; total= 0;}
