@@ -42,6 +42,15 @@ class CalculatorTest {
 
             assertEquals(22,testCalculator.subtract(first,second));
         }
+
+        @Test
+        void testDivide(){
+
+            int first = 44;
+            int second = 2;
+
+            assertEquals(22,testCalculator.divide(first,second));
+        }
         @AfterEach
         void tearDown() {
         }
