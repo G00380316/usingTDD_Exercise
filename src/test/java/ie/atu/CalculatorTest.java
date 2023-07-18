@@ -24,6 +24,15 @@ class CalculatorTest {
 
          assertEquals(22,testCalculator.add(first,second));
         }
+
+        @Test
+        void testMultiply(){
+
+            int first = 2;
+            int second = 11;
+
+            assertEquals(22,testCalculator.multiply(first,second));
+        }
         @AfterEach
         void tearDown() {
         }

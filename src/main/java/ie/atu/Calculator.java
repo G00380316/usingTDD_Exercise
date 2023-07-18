@@ -10,4 +10,11 @@ public class Calculator {
 
             return total;
         }
+
+        public int multiply(int firstNumber, int secondNumber){
+            total = firstNumber * secondNumber;
+            System.out.println("The Multiplication is "+ total);
+
+            return total;
+        }
 }
