@@ -33,6 +33,15 @@ class CalculatorTest {
 
             assertEquals(22,testCalculator.multiply(first,second));
         }
+
+        @Test
+        void testSubtract(){
+
+            int first = 24;
+            int second = 2;
+
+            assertEquals(22,testCalculator.subtract(first,second));
+        }
         @AfterEach
         void tearDown() {
         }
