@@ -22,7 +22,7 @@ class CalculatorTest {
         int first = 11;
         int second = 11;
 
-         assertEquals(21,testCalculator.add(first,second));
+         assertEquals(22,testCalculator.add(first,second));
         }
         @AfterEach
         void tearDown() {
